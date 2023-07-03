@@ -26,11 +26,5 @@ def main():
   elif response == 2:
     print("User clicked CANCEL!")
 
-
-
-
-
-
-
 if __name__ == "__main__":
   main()
