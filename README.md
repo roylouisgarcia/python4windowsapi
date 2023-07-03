@@ -9,13 +9,13 @@ This is a repository of Python scripts that interacts with the Windows API.
 
 **The Code:**
 
-![Python Code for HelloWorld.py](.\images\00_helloworld_code.png)
+![Python Code for HelloWorld.py](./images/00_helloworld_code.png)
 
 **Windows API Documentation Link**: https://learn.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-messageboxw
 
 **Windows API Documentation Excerpt:**
 
-![Screenshot of Windows API call MessageBoxW](.\images\00_api_doc.png)
+<img src="./images/00_api_doc.png" alt="Screenshot of Windows API call MessageBoxW" style="zoom:200%;" />
 
 **Results:**
 
@@ -31,10 +31,10 @@ This is a repository of Python scripts that interacts with the Windows API.
 
 *Initialization and User Input:*
 
-![The part of the code that asks the user what process to kill](.\images\01_project_ss.png)
+![The part of the code that asks the user what process to kill](./images/01_project_ss.png)
 
 ***FindWindowA*** *(code and documentation)*
 
-![FindWindowA Code](.\images\02_project_ss.png)
+![FindWindowA Code](./images/02_project_ss.png)
 
-![FindWindowA Documentation](.\images\01_api_doc.png)
+![FindWindowA Documentation](./images/01_api_doc.png)
