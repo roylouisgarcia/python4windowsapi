@@ -19,7 +19,7 @@ This is a repository of Python scripts that interacts with the Windows API.
 
 **Results:**
 
-![Windows Message Box](.\images\00_ss_helloworld.png)
+![Windows Message Box](./images/00_ss_helloworld.png)
 
 ------
 
@@ -33,8 +33,38 @@ This is a repository of Python scripts that interacts with the Windows API.
 
 ![The part of the code that asks the user what process to kill](./images/01_project_ss.png)
 
+
+
 ***FindWindowA*** *(code and documentation)*
 
 ![FindWindowA Code](./images/02_project_ss.png)
 
 ![FindWindowA Documentation](./images/01_api_doc.png)
+
+**Windows API Documentation Link**: https://learn.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-findwindowa
+
+***GetWindowThreadProcessId*** *(Code and Documentation)*
+
+![GetWindowThreadProcessId Code](./images/03_project_ss.png)
+
+![GetWindowThreadProcessId Documentation](./images/02_api_doc.png)
+
+
+
+**Windows API Documentation Link**: https://learn.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-getwindowthreadprocessid
+
+***OpenProcess*** *(code and documentation)*
+
+![OpenProcess Code](./images/04_project_ss.png)
+
+![OpenProcess Documentation](./images/03_api_doc.png)
+
+**Windows API Documentation Link**: https://learn.microsoft.com/en-us/windows/win32/api/processthreadsapi/nf-processthreadsapi-openprocess
+
+***TerminateProcess*** *(Code and Documentation)*
+
+![TerminateProcess Code](./images/05_project_ss.png)
+
+![TerminateProcess Documentation](./images/04_api_doc.png)
+
+**Windows API Documentation Link**: https://learn.microsoft.com/en-us/windows/win32/api/processthreadsapi/nf-processthreadsapi-terminateprocess
